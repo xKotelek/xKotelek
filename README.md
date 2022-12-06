@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sefinek24/sefinek24/main/images/4355954.jpg" alt="Anime Programming Wallpaper">
+<img src="wallpaper.png" alt="Programming Wallpaper">
 
 <a href="https://wakatime.com/@xKotelek" target="_blank">
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=xKotelek&border_radius=13px&theme=dark&bg_color=202225&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&custom_title=Weekly%20Stats" alt="Weekly Stats">
