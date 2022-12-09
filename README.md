@@ -14,7 +14,7 @@
 
 <p>
     <a href="https://kotelek.tk" target="_blank">
-	    <img src="https://lanyard.cnrad.dev/api/803159847641284640?bg=202225&borderRadius=13px" width="47%" alt="Discord Status">
+	    <img src="https://lanyard.cnrad.dev/api/803159847641284640?bg=0A0A0A&borderRadius=13px&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." width="47%" alt="Discord Status">
     </a>
 </p>
 
