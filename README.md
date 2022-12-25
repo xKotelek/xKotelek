@@ -5,8 +5,8 @@
 		<img src="https://skills.thijs.gg/icons?i=html,css,python">
 		<img src="https://skills.thijs.gg/icons?i=cloudflare,discord">
 		<br>
-		» <b>Official website:</b> https://kotelek.tk  
+		» <b>Official website:</b> <a href="https://kotelek.tk">kotelek.tk</a>  
 		<br>
-		» <b>E-Mail:</b> kontakt@kotelek.tk
+		» <b>E-Mail:</b> <a href="mailto:kontakt@kotelek.tk">kontakt@kotelek.tk</tk>
 	</p>
 </p>
