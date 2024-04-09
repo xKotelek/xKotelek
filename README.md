@@ -11,7 +11,7 @@ Such a silly cat
 * 🌍  I'm based in Głowno, Poland
 * 🖥️  See my portfolio at [kotelek.dev](http://kotelek.dev)
 * ✉️  You can contact me at [contact@kotelek.dev](mailto:contact@kotelek.dev)
-* 🚀  I'm currently working on [My Portfolio](http://kotelek.dev)
+* 🚀  I'm currently working on [quickpay](http://quickpay.kotelek.dev)
 * 🧠  I'm learning nextjs + tailwindcss
 * ⚡  I'm a catman🐈
 
