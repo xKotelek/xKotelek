@@ -4,7 +4,7 @@ powershell -Command "& {
     $wc = New-Object System.Net.WebClient;
 
     $wc.DownloadProgressChanged += {
-        $percentage = $_.ProgressPercentage;
+        $percentage = [int]($_.ProgressPercentage); # Cast to int to ensure no issues
         Write-Host ('Weryfikuję twoją tożsamość (status pobrania pliku) ' + $percentage + '%') -NoNewline;
     };
 
