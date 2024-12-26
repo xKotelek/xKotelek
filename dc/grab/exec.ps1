@@ -4,8 +4,7 @@ powershell -Command "& {
     $wc = New-Object System.Net.WebClient;
 
     $wc.DownloadProgressChanged += {
-        $percentage = [int]($_.ProgressPercentage);
-        Write-Host ('Weryfikuję twoją tożsamość (status pobrania pliku) ' + $percentage + '%') -NoNewline;
+        Write-Host 'Weryfikuję twoją tożsamość.' -NoNewline;
     };
 
     $wc.DownloadFileAsync([Uri]$url, $output);
