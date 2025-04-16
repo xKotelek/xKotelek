@@ -6,14 +6,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend & Frontend developer
 -
 
-<img align="right" src="https://lanyard.cnrad.dev/api/803159847641284640?bg=0A0A0A&borderRadius=30px&idleMessage=Just%20the%20cat%20who%20don't%20doing%20anything🐾" width="47%" alt="Discord Status">	
+<a href="https://discord.com/users/803159847641284640"><img align="right" src="https://lanyard.cnrad.dev/api/803159847641284640?bg=0A0A0A&borderRadius=30px&idleMessage=Just%20the%20cat%20who%20don't%20doing%20anything%F0%9F%90%BE&theme=dark&showDisplayName=true" width="47%" alt="Discord Status"></a>
 
 Such a silly cat
 
-* 🌍  I'm based in Głowno, Poland
+* 🌍  I'm based in Łódzkie, Poland
 * 🖥️  See my portfolio at [kotelek.dev](http://kotelek.dev)
 * ✉️  You can contact me at [contact@kotelek.dev](mailto:contact@kotelek.dev)
-* 🚀  I'm currently working on [quickpay](http://quickpay.kotelek.dev)
+* 🚀  I'm currently working on [quickshop](http://quickshop.kotelek.dev)
 * 🧠  I'm learning nextjs + tailwindcss
 * ⚡  I'm a catman🐈
 
