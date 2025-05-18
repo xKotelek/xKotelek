@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend & Frontend developer
 -
 
-<a href="https://discord.com/users/803159847641284640"><img align="right" src="https://lanyard.cnrad.dev/api/803159847641284640?bg=0A0A0A&borderRadius=30px&idleMessage=Just%20the%20cat%20who%20don't%20doing%20anything%F0%9F%90%BE&theme=dark&showDisplayName=true" width="47%" alt="Discord Status"></a>
+<a href="https://discord.com/users/803159847641284640"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/803159847641284640?idleMessage=Just%20the%20cat%20who%20don%27t%20doing%20anything%F0%9F%90%BE&theme=dark&bg=0A0A0A&borderRadius=30px&showDisplayName=true" width="47%" alt="Discord Status"></a>
 
 Such a silly cat
 
