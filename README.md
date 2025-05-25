@@ -48,10 +48,10 @@ src="https://img.shields.io/twitch/status/kotelekx_?logo=twitchsx&style=for-the-
 ### Support Me
 
 <div style="display: flex; gap: 0.5rem; margin-top: 1rem; background: transparent;">
-  <a style="color: transparent;" href="https://www.buymeacoffee.com/xkotelek">
+  <a style="color: transparent;" target="_blank" href="https://www.buymeacoffee.com/xkotelek">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
   </a>
-  <a style="color: transparent;" href="https://www.ko-fi.com/xkotelek">
+  <a style="color: transparent;" target="_blank" href="https://www.ko-fi.com/xkotelek">
     <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" />
   </a>
 </div>
